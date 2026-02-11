@@ -4,7 +4,7 @@
 ![tools](https://www.lexaloffle.com/gfx/p8_tracker.gif)
 ![code](https://www.lexaloffle.com/gfx/p8_cast.gif)
 
-A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 436,352 | 🐛 69 | 📅 2026-01-28 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,454 | 🐛 47 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,215 | 🐛 0 | 🌐 PowerShell | 📅 2026-01-29.
+A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 436,588 | 🐛 68 | 📅 2026-01-28 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,455 | 🐛 47 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,216 | 🐛 1 | 🌐 PowerShell | 📅 2026-01-29.
 
 PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in a subset of [Lua](https://www.lua.org/) commands and provides simple built-in tools for creating your own cartridges.
 
@@ -72,9 +72,9 @@ PICO-8 is a fantasy console for making, sharing and playing tiny games and other
 
 ### Tools
 
-* [picotool](https://github.com/dansanderson/picotool) ⭐ 399 | 🐛 53 | 🌐 Python | 📅 2024-02-03 -  Tools and Python libraries for manipulating Pico-8 game files.
+* [picotool](https://github.com/dansanderson/picotool) ⭐ 400 | 🐛 53 | 🌐 Python | 📅 2024-02-03 -  Tools and Python libraries for manipulating Pico-8 game files.
 * [picoDeploy](https://github.com/torch2424/picoDeploy) ⚠️ Archived - Deploy Pico-8 carts as standalone applications on desktop (Electron) and mobile (Ionic).
-* [Shrinko8](https://github.com/thisismypassport/shrinko8) ⭐ 149 | 🐛 10 | 🌐 Lua | 📅 2026-02-10 - A minifier that aggressively shrinks Pico-8 code size. Also includes a linter and other tools.
+* [Shrinko8](https://github.com/thisismypassport/shrinko8) ⭐ 149 | 🐛 8 | 🌐 Lua | 📅 2026-02-10 - A minifier that aggressively shrinks Pico-8 code size. Also includes a linter and other tools.
 * [P8Coder](https://github.com/movAX13h/P8Coder) ⭐ 109 | 🐛 2 | 🌐 C# | 📅 2025-07-22 - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
 * [midi2pico](https://github.com/gamax92/midi2pico) ⭐ 70 | 🐛 1 | 🌐 Lua | 📅 2020-01-17 - A MIDI to PICO-8 converter.
 * [MIDI to PICO-8](https://github.com/andmatand/midi-to-pico8) ⭐ 66 | 🐛 2 | 🌐 Python | 📅 2017-10-21 - A tool to convert MIDI files to PICO-8 music.
@@ -117,16 +117,16 @@ PICO-8 is a fantasy console for making, sharing and playing tiny games and other
 
 ### Text Editors Language Support
 
-* Visual Studio Code: [pico8-ls](https://github.com/japhib/pico8-ls) ⭐ 105 | 🐛 30 | 🌐 TypeScript | 📅 2025-09-23 - PICO-8 Language Server, providing full language support for the PICO-8 dialect of Lua.
+* Visual Studio Code: [pico8-ls](https://github.com/japhib/pico8-ls) ⭐ 106 | 🐛 30 | 🌐 TypeScript | 📅 2025-09-23 - PICO-8 Language Server, providing full language support for the PICO-8 dialect of Lua.
 * Vim: [vim-pico8-syntax](https://github.com/justinj/vim-pico8-syntax) ⭐ 65 | 🐛 5 | 🌐 VimL | 📅 2017-09-17
-* Emacs: [pico8-mode](https://github.com/Kaali/pico8-mode) ⭐ 32 | 🐛 7 | 🌐 Emacs Lisp | 📅 2023-10-19
+* Emacs: [pico8-mode](https://github.com/Kaali/pico8-mode) ⭐ 33 | 🐛 7 | 🌐 Emacs Lisp | 📅 2023-10-19
 * Visual Studio Code / NeoVim / JetBrains / Others： [pico8-definitions](https://github.com/ahai64/pico8-definitions) ⭐ 32 | 🐛 0 | 🌐 Lua | 📅 2025-11-12 - An add-on for sumneko/lua to provide PICO-8 language support.
 * Atom: [language-pico8](https://atom.io/packages/language-pico8)
 * Sublime: [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) - PICO-8 plugin for the Sublime Text editor (color scheme, font, build system, code completion, snippets...).
 
 ### Programming Fonts
 
-You might be interested to install [pico-8 programming fonts](https://github.com/juanitogan/p8-programming-fonts) ⭐ 120 | 🐛 0 | 📅 2020-05-19 they support the pico-8 custom characters as well as various fonts (bitmap and regular anti-aliased fonts). Check the [BBS thread here](https://www.lexaloffle.com/bbs/?tid=28975).
+You might be interested to install [pico-8 programming fonts](https://github.com/juanitogan/p8-programming-fonts) ⭐ 121 | 🐛 0 | 📅 2020-05-19 they support the pico-8 custom characters as well as various fonts (bitmap and regular anti-aliased fonts). Check the [BBS thread here](https://www.lexaloffle.com/bbs/?tid=28975).
 
 How to install the font(s):
 
