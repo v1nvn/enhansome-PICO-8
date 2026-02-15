@@ -4,7 +4,7 @@
 ![tools](https://www.lexaloffle.com/gfx/p8_tracker.gif)
 ![code](https://www.lexaloffle.com/gfx/p8_cast.gif)
 
-A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 437,260 | 🐛 69 | 📅 2026-01-28 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,458 | 🐛 47 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,220 | 🐛 2 | 🌐 PowerShell | 📅 2026-01-29.
+A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 437,494 | 🐛 70 | 📅 2026-01-28 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,458 | 🐛 47 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,221 | 🐛 2 | 🌐 PowerShell | 📅 2026-01-29.
 
 PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in a subset of [Lua](https://www.lua.org/) commands and provides simple built-in tools for creating your own cartridges.
 
@@ -157,7 +157,7 @@ How to install the font(s):
 
 * [LIKO-12](https://github.com/RamiLego4Game/LIKO-12) ⚠️ Archived - An open source fantasy computer made using LÖVE with 96kb RAM.
 * [PicoLove](https://github.com/picolove/picolove) ⭐ 869 | 🐛 17 | 🌐 Lua | 📅 2024-10-24 - Pico-8 Reimplementation in LÖVE.
-* [Pikuseru](https://github.com/PikuseruConsole/pikuseru) ⭐ 113 | 🐛 0 | 🌐 Rust | 📅 2023-12-07 - Open Source Fantasy Console in pure Rust \[Core].
+* [Pikuseru](https://github.com/PikuseruConsole/pikuseru) ⭐ 114 | 🐛 0 | 🌐 Rust | 📅 2023-12-07 - Open Source Fantasy Console in pure Rust \[Core].
 * [TIC-80 by Nesbox](https://nesbox.itch.io/tic) - Tiny Computer, available on HTML 5, Windows, Linux 32/64bit, Android & MacOSX
 * [tac08](https://0xcafed00d.itch.io/tac08-rg350) - tac08 is an emulation of the runtime part of the Pico-8 fantasy console, running on RG350 handheld game console.
 * [LowRes NX](https://lowresnx.inutilis.com/) - Fantasy Console available on IOS, MacOS, Windows, Linux, and GameShell (BASIC code support)
