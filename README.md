@@ -4,7 +4,7 @@
 ![tools](https://www.lexaloffle.com/gfx/p8_tracker.gif)
 ![code](https://www.lexaloffle.com/gfx/p8_cast.gif)
 
-A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 437,720 | 🐛 71 | 📅 2026-01-28 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,458 | 🐛 47 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,223 | 🐛 2 | 🌐 PowerShell | 📅 2026-01-29.
+A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 437,916 | 🐛 71 | 📅 2026-01-28 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,459 | 🐛 47 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,224 | 🐛 2 | 🌐 PowerShell | 📅 2026-01-29.
 
 PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in a subset of [Lua](https://www.lua.org/) commands and provides simple built-in tools for creating your own cartridges.
 
@@ -126,7 +126,7 @@ PICO-8 is a fantasy console for making, sharing and playing tiny games and other
 
 ### Programming Fonts
 
-You might be interested to install [pico-8 programming fonts](https://github.com/juanitogan/p8-programming-fonts) ⭐ 121 | 🐛 0 | 📅 2020-05-19 they support the pico-8 custom characters as well as various fonts (bitmap and regular anti-aliased fonts). Check the [BBS thread here](https://www.lexaloffle.com/bbs/?tid=28975).
+You might be interested to install [pico-8 programming fonts](https://github.com/juanitogan/p8-programming-fonts) ⭐ 120 | 🐛 0 | 📅 2020-05-19 they support the pico-8 custom characters as well as various fonts (bitmap and regular anti-aliased fonts). Check the [BBS thread here](https://www.lexaloffle.com/bbs/?tid=28975).
 
 How to install the font(s):
 
