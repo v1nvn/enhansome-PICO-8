@@ -4,7 +4,7 @@
 ![tools](https://www.lexaloffle.com/gfx/p8_tracker.gif)
 ![code](https://www.lexaloffle.com/gfx/p8_cast.gif)
 
-A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 438,153 | 🐛 70 | 📅 2026-01-28 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,461 | 🐛 47 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,224 | 🐛 2 | 🌐 PowerShell | 📅 2026-01-29.
+A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 438,407 | 🐛 71 | 📅 2026-01-28 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,463 | 🐛 47 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,225 | 🐛 2 | 🌐 PowerShell | 📅 2026-01-29.
 
 PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in a subset of [Lua](https://www.lua.org/) commands and provides simple built-in tools for creating your own cartridges.
 
@@ -33,10 +33,14 @@ PICO-8 is a fantasy console for making, sharing and playing tiny games and other
   * [PICO-8](https://www.lexaloffle.com/pico-8.php)
   * [Forum/BBS](https://www.lexaloffle.com/bbs/?cat=7)
   * [Twitter](https://twitter.com/lexaloffle)
+  * [BlueSky](https://bsky.app/profile/lexaloffle.bsky.social)
+  * [Mastodon](http://mastodon.social/@zep)
   * [Facebook](https://www.facebook.com/lexaloffle/)
   * [Youtube](https://www.youtube.com/user/lexaloffletv)
 * [Subreddit](https://www.reddit.com/r/pico8/)
 * [#pico8 on Twitter](https://twitter.com/hashtag/pico8)
+* [#pico8 on BlueSky](https://bsky.app/hashtag/pico8)
+* [#pico8 on Mastodon](https://mastodon.social/tags/pico8)
 * [#pico8 on Freenode](https://webchat.freenode.net/?randomnick=1\&channels=#pico8\&prompt=1)
 * [Pico-8 Console News](https://twitter.com/pico8console)
 * [Pico-8 Wiki](https://pico-8.wikia.com/wiki/Pico-8_Wikia)
@@ -77,11 +81,12 @@ PICO-8 is a fantasy console for making, sharing and playing tiny games and other
 * [Shrinko8](https://github.com/thisismypassport/shrinko8) ⭐ 150 | 🐛 8 | 🌐 Lua | 📅 2026-02-10 - A minifier that aggressively shrinks Pico-8 code size. Also includes a linter and other tools.
 * [P8Coder](https://github.com/movAX13h/P8Coder) ⭐ 109 | 🐛 2 | 🌐 C# | 📅 2025-07-22 - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
 * [midi2pico](https://github.com/gamax92/midi2pico) ⭐ 70 | 🐛 1 | 🌐 Lua | 📅 2020-01-17 - A MIDI to PICO-8 converter.
+* [jspicl](https://github.com/jspicl/jspicl) ⭐ 69 | 🐛 4 | 🌐 TypeScript | 📅 2026-02-17 - Write PICO-8 games in JavaScript or TypeScript, with live reloading so you can see your changes instantly!
 * [MIDI to PICO-8](https://github.com/andmatand/midi-to-pico8) ⭐ 66 | 🐛 2 | 🌐 Python | 📅 2017-10-21 - A tool to convert MIDI files to PICO-8 music.
 * [PICO-EC](https://github.com/JoebRogers/PICO-EC) ⭐ 58 | 🐛 0 | 🌐 Lua | 📅 2019-01-05 - A tiny scene-entity-component library created for the PICO-8 fantasty console.
 * [Pico8Utils](https://github.com/josefnpat/pico8utils) ⭐ 55 | 🐛 1 | 🌐 Lua | 📅 2018-08-22 - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
 * [p8](https://github.com/jozanza/p8) ⭐ 50 | 🐛 6 | 🌐 TypeScript | 📅 2023-03-06 - A dependency manager and build tool. Lets you share code/sprites, `require()` dependencies, and auto-reload carts on save. Works with any external code editor and supports [MoonScript](https://moonscript.org/).
-* [TS-PICO-8](https://github.com/tmountain/pico-8-typescript) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-17 - Create PICO-8 games using TypeScript.
+* [TS-PICO-8](https://github.com/tmountain/pico-8-typescript) ⭐ 45 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-17 - Create PICO-8 games using TypeScript.
 * [pico8-deploy](https://github.com/tducasse/pico8-deploy) ⭐ 34 | 🐛 0 | 🌐 Makefile | 📅 2022-03-04 - An easy way to export and deploy PICO-8 projects to itch.io
 * [pico2png](https://github.com/briacp/pico2png) ⭐ 28 | 🐛 1 | 🌐 Perl | 📅 2020-04-10 - Spritesheet extraction written in perl.
 * [Pico-8 Carts Downloader - Bash ](https://github.com/kikookoubis/pico-8-carts-bash-downloader) ⭐ 22 | 🐛 2 | 🌐 Shell | 📅 2017-03-24 - Downloads cartridge from the BBS (single cart, whole index or dump your favourited entries) & rename them according to their metadata.
