@@ -4,7 +4,7 @@
 ![tools](https://www.lexaloffle.com/gfx/p8_tracker.gif)
 ![code](https://www.lexaloffle.com/gfx/p8_cast.gif)
 
-A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 447,076 | 🐛 86 | 📅 2026-03-09 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,480 | 🐛 48 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,271 | 🐛 3 | 🌐 PowerShell | 📅 2026-01-29.
+A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 447,390 | 🐛 88 | 📅 2026-03-09 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,482 | 🐛 48 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,270 | 🐛 3 | 🌐 PowerShell | 📅 2026-01-29.
 
 PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in a subset of [Lua](https://www.lua.org/) commands and provides simple built-in tools for creating your own cartridges.
 
@@ -81,7 +81,7 @@ PICO-8 is a fantasy console for making, sharing and playing tiny games and other
 * [Shrinko8](https://github.com/thisismypassport/shrinko8) ⭐ 153 | 🐛 8 | 🌐 Lua | 📅 2026-02-10 - A minifier that aggressively shrinks Pico-8 code size. Also includes a linter and other tools.
 * [P8Coder](https://github.com/movAX13h/P8Coder) ⭐ 109 | 🐛 2 | 🌐 C# | 📅 2025-07-22 - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
 * [midi2pico](https://github.com/gamax92/midi2pico) ⭐ 70 | 🐛 1 | 🌐 Lua | 📅 2020-01-17 - A MIDI to PICO-8 converter.
-* [jspicl](https://github.com/jspicl/jspicl) ⭐ 69 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-12 - Write PICO-8 games in JavaScript or TypeScript, with live reloading so you can see your changes instantly!
+* [jspicl](https://github.com/jspicl/jspicl) ⭐ 69 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-20 - Write PICO-8 games in JavaScript or TypeScript, with live reloading so you can see your changes instantly!
 * [MIDI to PICO-8](https://github.com/andmatand/midi-to-pico8) ⭐ 66 | 🐛 2 | 🌐 Python | 📅 2017-10-21 - A tool to convert MIDI files to PICO-8 music.
 * [PICO-EC](https://github.com/JoebRogers/PICO-EC) ⭐ 58 | 🐛 0 | 🌐 Lua | 📅 2019-01-05 - A tiny scene-entity-component library created for the PICO-8 fantasty console.
 * [Pico8Utils](https://github.com/josefnpat/pico8utils) ⭐ 55 | 🐛 1 | 🌐 Lua | 📅 2018-08-22 - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
@@ -122,7 +122,7 @@ PICO-8 is a fantasy console for making, sharing and playing tiny games and other
 
 ### Text Editors Language Support
 
-* Visual Studio Code: [pico8-ls](https://github.com/japhib/pico8-ls) ⭐ 109 | 🐛 31 | 🌐 TypeScript | 📅 2025-09-23 - PICO-8 Language Server, providing full language support for the PICO-8 dialect of Lua.
+* Visual Studio Code: [pico8-ls](https://github.com/japhib/pico8-ls) ⭐ 110 | 🐛 31 | 🌐 TypeScript | 📅 2025-09-23 - PICO-8 Language Server, providing full language support for the PICO-8 dialect of Lua.
 * Vim: [vim-pico8-syntax](https://github.com/justinj/vim-pico8-syntax) ⭐ 65 | 🐛 5 | 🌐 VimL | 📅 2017-09-17
 * Emacs: [pico8-mode](https://github.com/Kaali/pico8-mode) ⭐ 33 | 🐛 7 | 🌐 Emacs Lisp | 📅 2023-10-19
 * Visual Studio Code / NeoVim / JetBrains / Others： [pico8-definitions](https://github.com/ahai64/pico8-definitions) ⭐ 32 | 🐛 0 | 🌐 Lua | 📅 2025-11-12 - An add-on for sumneko/lua to provide PICO-8 language support.
@@ -162,7 +162,7 @@ How to install the font(s):
 
 * [LIKO-12](https://github.com/RamiLego4Game/LIKO-12) ⚠️ Archived - An open source fantasy computer made using LÖVE with 96kb RAM.
 * [PicoLove](https://github.com/picolove/picolove) ⭐ 874 | 🐛 17 | 🌐 Lua | 📅 2024-10-24 - Pico-8 Reimplementation in LÖVE.
-* [Pikuseru](https://github.com/PikuseruConsole/pikuseru) ⭐ 114 | 🐛 0 | 🌐 Rust | 📅 2023-12-07 - Open Source Fantasy Console in pure Rust \[Core].
+* [Pikuseru](https://github.com/PikuseruConsole/pikuseru) ⭐ 115 | 🐛 0 | 🌐 Rust | 📅 2023-12-07 - Open Source Fantasy Console in pure Rust \[Core].
 * [TIC-80 by Nesbox](https://nesbox.itch.io/tic) - Tiny Computer, available on HTML 5, Windows, Linux 32/64bit, Android & MacOSX
 * [tac08](https://0xcafed00d.itch.io/tac08-rg350) - tac08 is an emulation of the runtime part of the Pico-8 fantasy console, running on RG350 handheld game console.
 * [LowRes NX](https://lowresnx.inutilis.com/) - Fantasy Console available on IOS, MacOS, Windows, Linux, and GameShell (BASIC code support)
