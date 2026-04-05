@@ -4,7 +4,7 @@
 ![tools](https://www.lexaloffle.com/gfx/p8_tracker.gif)
 ![code](https://www.lexaloffle.com/gfx/p8_cast.gif)
 
-A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 451,626 | 🐛 59 | 📅 2026-04-02 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,487 | 🐛 47 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,279 | 🐛 3 | 🌐 PowerShell | 📅 2026-01-29.
+A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 451,968 | 🐛 59 | 📅 2026-04-02 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,488 | 🐛 47 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,283 | 🐛 3 | 🌐 PowerShell | 📅 2026-01-29.
 
 PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in a subset of [Lua](https://www.lua.org/) commands and provides simple built-in tools for creating your own cartridges.
 
@@ -106,7 +106,7 @@ PICO-8 is a fantasy console for making, sharing and playing tiny games and other
 
 ### Libraries
 
-* [SCUMM-8](https://github.com/Liquidream/scumm-8) ⭐ 352 | 🐛 2 | 🌐 Lua | 📅 2025-08-11 - De-make of the SCUMM engine for making point-and-click classic adventures.
+* [SCUMM-8](https://github.com/Liquidream/scumm-8) ⭐ 353 | 🐛 2 | 🌐 Lua | 📅 2025-08-11 - De-make of the SCUMM engine for making point-and-click classic adventures.
 * [Lib-Pico8](https://github.com/clowerweb/Lib-Pico8) ⭐ 195 | 🐛 1 | 🌐 Lua | 📅 2020-02-09 - A Pico-8 library of useful common functions.
 * [PICO-Tween](https://github.com/JoebRogers/PICO-Tween) ⭐ 92 | 🐛 0 | 🌐 Lua | 📅 2020-03-25 - A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions.
 * [Pico-Kit](https://github.com/outkine/pico-kit) ⭐ 88 | 🐛 0 | 🌐 Lua | 📅 2019-04-29 - An opinionated collection of Pico-8 helpers that make it easier to get going.  Adds OOP, better debugging, and physics.
