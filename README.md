@@ -4,7 +4,7 @@
 ![tools](https://www.lexaloffle.com/gfx/p8_tracker.gif)
 ![code](https://www.lexaloffle.com/gfx/p8_cast.gif)
 
-A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 452,324 | 🐛 60 | 📅 2026-04-02 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,488 | 🐛 47 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,284 | 🐛 3 | 🌐 PowerShell | 📅 2026-01-29.
+A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 452,659 | 🐛 60 | 📅 2026-04-02 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,486 | 🐛 48 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,286 | 🐛 3 | 🌐 PowerShell | 📅 2026-01-29.
 
 PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in a subset of [Lua](https://www.lua.org/) commands and provides simple built-in tools for creating your own cartridges.
 
@@ -147,7 +147,7 @@ How to install the font(s):
 
 ### Hardware
 
-* [GameShell](https://www.clockworkpi.com/) - A modular handheld game console that allows you to play & modify retro games and DIY new devices. Check the [GameShell Docs](https://github.com/clockworkpi/GameShellDocs/wiki/Running-PICO-8-on-the-GameShell) ⭐ 190 | 🐛 5 | 📅 2021-08-15 for how to run PICO-8 on the GameShell.
+* [GameShell](https://www.clockworkpi.com/) - A modular handheld game console that allows you to play & modify retro games and DIY new devices. Check the [GameShell Docs](https://github.com/clockworkpi/GameShellDocs/wiki/Running-PICO-8-on-the-GameShell) ⭐ 191 | 🐛 5 | 📅 2021-08-15 for how to run PICO-8 on the GameShell.
 * [PocketChip](https://shop.pocketchip.co/) - A handheld designed for playing and coding anywhere. Officially supported by pico-8. [PoketChip version of pico-8](https://www.lexaloffle.com/bbs/?tid=34009)
 
 ### Articles & Posts
