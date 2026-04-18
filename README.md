@@ -4,7 +4,7 @@
 ![tools](https://www.lexaloffle.com/gfx/p8_tracker.gif)
 ![code](https://www.lexaloffle.com/gfx/p8_cast.gif)
 
-A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 456,114 | 🐛 64 | 📅 2026-04-02 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,489 | 🐛 47 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,306 | 🐛 2 | 🌐 PowerShell | 📅 2026-04-07.
+A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 456,406 | 🐛 65 | 📅 2026-04-02 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,489 | 🐛 47 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,309 | 🐛 2 | 🌐 PowerShell | 📅 2026-04-07.
 
 PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in a subset of [Lua](https://www.lua.org/) commands and provides simple built-in tools for creating your own cartridges.
 
@@ -122,7 +122,7 @@ PICO-8 is a fantasy console for making, sharing and playing tiny games and other
 
 ### Text Editors Language Support
 
-* Visual Studio Code: [pico8-ls](https://github.com/japhib/pico8-ls) ⭐ 110 | 🐛 31 | 🌐 TypeScript | 📅 2025-09-23 - PICO-8 Language Server, providing full language support for the PICO-8 dialect of Lua.
+* Visual Studio Code: [pico8-ls](https://github.com/japhib/pico8-ls) ⭐ 111 | 🐛 31 | 🌐 TypeScript | 📅 2025-09-23 - PICO-8 Language Server, providing full language support for the PICO-8 dialect of Lua.
 * Vim: [vim-pico8-syntax](https://github.com/justinj/vim-pico8-syntax) ⭐ 65 | 🐛 5 | 🌐 VimL | 📅 2017-09-17
 * Emacs: [pico8-mode](https://github.com/Kaali/pico8-mode) ⭐ 33 | 🐛 7 | 🌐 Emacs Lisp | 📅 2023-10-19
 * Visual Studio Code / NeoVim / JetBrains / Others： [pico8-definitions](https://github.com/ahai64/pico8-definitions) ⭐ 32 | 🐛 0 | 🌐 Lua | 📅 2025-11-12 - An add-on for sumneko/lua to provide PICO-8 language support.
