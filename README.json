@@ -333,7 +333,7 @@
             "last_commit": "2026-02-10T07:12:25Z",
             "owner": "thisismypassport",
             "repo": "shrinko8",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -537,7 +537,7 @@
             "last_commit": "2025-11-12T13:07:38Z",
             "owner": "ahai64",
             "repo": "pico8-definitions",
-            "stars": 34
+            "stars": 35
           }
         }
       ],
@@ -620,7 +620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-21T06:01:16.202Z",
+    "last_updated": "2026-05-22T05:57:32.985Z",
     "original_repository": "pico-8/awesome-PICO-8",
     "source_repository": "v1nvn/enhansome-PICO-8",
     "source_repository_description": null,
