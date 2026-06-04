@@ -4,7 +4,7 @@
 ![tools](https://www.lexaloffle.com/gfx/p8_tracker.gif)
 ![code](https://www.lexaloffle.com/gfx/p8_cast.gif)
 
-A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 472,455 | 🐛 81 | 📅 2026-06-02 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,508 | 🐛 47 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,386 | 🐛 0 | 🌐 PowerShell | 📅 2026-05-26.
+A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 472,732 | 🐛 82 | 📅 2026-06-02 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,509 | 🐛 47 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,388 | 🐛 0 | 🌐 PowerShell | 📅 2026-05-26.
 
 PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in a subset of [Lua](https://www.lua.org/) commands and provides simple built-in tools for creating your own cartridges.
 
@@ -86,7 +86,7 @@ PICO-8 is a fantasy console for making, sharing and playing tiny games and other
 * [PICO-EC](https://github.com/JoebRogers/PICO-EC) ⭐ 58 | 🐛 0 | 🌐 Lua | 📅 2019-01-05 - A tiny scene-entity-component library created for the PICO-8 fantasty console.
 * [Pico8Utils](https://github.com/josefnpat/pico8utils) ⭐ 55 | 🐛 1 | 🌐 Lua | 📅 2018-08-22 - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
 * [p8](https://github.com/jozanza/p8) ⭐ 50 | 🐛 6 | 🌐 TypeScript | 📅 2023-03-06 - A dependency manager and build tool. Lets you share code/sprites, `require()` dependencies, and auto-reload carts on save. Works with any external code editor and supports [MoonScript](https://moonscript.org/).
-* [TS-PICO-8](https://github.com/tmountain/pico-8-typescript) ⭐ 47 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-17 - Create PICO-8 games using TypeScript.
+* [TS-PICO-8](https://github.com/tmountain/pico-8-typescript) ⭐ 48 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-17 - Create PICO-8 games using TypeScript.
 * [pico8-deploy](https://github.com/tducasse/pico8-deploy) ⭐ 34 | 🐛 0 | 🌐 Makefile | 📅 2022-03-04 - An easy way to export and deploy PICO-8 projects to itch.io
 * [pico2png](https://github.com/briacp/pico2png) ⭐ 28 | 🐛 1 | 🌐 Perl | 📅 2020-04-10 - Spritesheet extraction written in perl.
 * [Pico-8 Carts Downloader - Bash ](https://github.com/kikookoubis/pico-8-carts-bash-downloader) ⭐ 22 | 🐛 2 | 🌐 Shell | 📅 2017-03-24 - Downloads cartridge from the BBS (single cart, whole index or dump your favourited entries) & rename them according to their metadata.
