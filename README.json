@@ -333,7 +333,7 @@
             "last_commit": "2026-02-10T07:12:25Z",
             "owner": "thisismypassport",
             "repo": "shrinko8",
-            "stars": 167
+            "stars": 168
           }
         },
         {
@@ -343,7 +343,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-27T21:15:43Z",
+            "last_commit": "2026-06-08T16:37:19Z",
             "owner": "jspicl",
             "repo": "jspicl",
             "stars": 69
@@ -620,7 +620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-08T06:27:33.467Z",
+    "last_updated": "2026-06-09T06:00:14.675Z",
     "original_repository": "pico-8/awesome-PICO-8",
     "source_repository": "v1nvn/enhansome-PICO-8",
     "source_repository_description": null,
