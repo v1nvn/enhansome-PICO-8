@@ -378,7 +378,7 @@
             "last_commit": "2020-02-09T16:20:18Z",
             "owner": "clowerweb",
             "repo": "Lib-Pico8",
-            "stars": 196
+            "stars": 197
           }
         },
         {
@@ -391,7 +391,7 @@
             "last_commit": "2019-03-23T20:23:55Z",
             "owner": "adamscott",
             "repo": "pico8-missing-builtins",
-            "stars": 29
+            "stars": 30
           }
         },
         {
@@ -404,7 +404,7 @@
             "last_commit": "2019-04-29T19:50:33Z",
             "owner": "outkine",
             "repo": "pico-kit",
-            "stars": 88
+            "stars": 89
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2020-03-25T05:11:32Z",
             "owner": "JoebRogers",
             "repo": "PICO-Tween",
-            "stars": 92
+            "stars": 93
           }
         },
         {
@@ -430,7 +430,7 @@
             "last_commit": "2025-05-18T17:52:40Z",
             "owner": "siapran",
             "repo": "parens-8",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -620,7 +620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-11T06:39:42.499Z",
+    "last_updated": "2026-06-12T06:24:25.379Z",
     "original_repository": "pico-8/awesome-PICO-8",
     "source_repository": "v1nvn/enhansome-PICO-8",
     "source_repository_description": null,
