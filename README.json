@@ -343,7 +343,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-08T16:37:19Z",
+            "last_commit": "2026-06-14T02:20:32Z",
             "owner": "jspicl",
             "repo": "jspicl",
             "stars": 69
@@ -620,7 +620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-13T06:07:28.896Z",
+    "last_updated": "2026-06-14T06:24:51.475Z",
     "original_repository": "pico-8/awesome-PICO-8",
     "source_repository": "v1nvn/enhansome-PICO-8",
     "source_repository_description": null,
